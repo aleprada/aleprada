@@ -9,3 +9,6 @@ On this repository, I occasionally share python prototypes and other stuff relat
 
 * Reach me on [Linkedin](https://www.linkedin.com/in/alejandro-prada-nespral-649a7924/)
 
+These are the articles that I'm posting on Medium:
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@alejandro.prada86/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@alejandro.prada86/0" alt="Recent article #1"></a>
+
